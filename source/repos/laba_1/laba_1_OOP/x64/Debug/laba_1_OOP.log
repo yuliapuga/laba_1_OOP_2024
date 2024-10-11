@@ -1,0 +1,5 @@
+﻿  laba_1.cpp
+C:\Users\Julia\source\repos\laba_1\laba_1_OOP\TRectangle.h(58,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'laba_1.cpp')
+  
+  laba_1_OOP.vcxproj -> C:\Users\Julia\source\repos\laba_1\x64\Debug\laba_1_OOP.exe
