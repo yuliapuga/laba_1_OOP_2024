@@ -9,7 +9,7 @@ int main() {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	//Перевірка першого класу
+	//РџРµСЂРµРІС–СЂРєР° РїРµСЂС€РѕРіРѕ РєР»Р°СЃСѓ
 
 	cout << "Vector class\n";
 	Vector v1(3);
